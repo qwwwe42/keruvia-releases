@@ -1,11 +1,13 @@
-# Keruvia — канал обновлений
+# Keruvia
 
-Здесь публикуются собранные установщики Keruvia и `latest.json` для
-автообновления. Сам лаунчер обновляется кнопкой «Обновить» в верхней панели.
+## [⬇ Скачать Keruvia](https://github.com/qwwwe42/keruvia-releases/releases/latest/download/Keruvia-setup.exe)
 
-**Установка:** скачайте `Keruvia_<версия>_x64-setup.exe` из последнего
-[релиза](https://github.com/qwwwe42/keruvia-releases/releases/latest) и
-запустите. Прав администратора не нужно.
+Ссылка выше всегда отдаёт установщик последней версии. Скачайте и запустите —
+прав администратора не нужно. Дальше лаунчер обновляется сам: кнопка «Обновить»
+появляется в верхней панели.
+
+Все версии — на странице [релизов](https://github.com/qwwwe42/keruvia-releases/releases).
+Здесь же лежит `latest.json`, по которому установленная Keruvia узнаёт об обновлениях.
 
 Keruvia основана на [Modrinth App](https://github.com/modrinth/code) и, как и
 он, распространяется под лицензией GPL-3.0. Исходный код лежит в приватном
